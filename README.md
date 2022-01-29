@@ -1,2 +1,2 @@
 # android-mini-timer
-Android mini countdown for learning purposes.
+Mini android countdown app used for learning android development.
